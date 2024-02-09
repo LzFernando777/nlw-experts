@@ -90,7 +90,7 @@ const perguntas = [
    ],
    correta: 1
  },
-];
+],
 
    
    const quiz = document.querySelector('#quiz')
