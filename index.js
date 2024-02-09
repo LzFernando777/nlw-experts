@@ -1,4 +1,3 @@
-```javascript
 const perguntas = [
  {
    pergunta: "Qual time brasileiro venceu a Copa do Mundo de 1994?",
@@ -90,9 +89,8 @@ const perguntas = [
    ],
    correta: 1
  },
-],
+];
 
-   
    const quiz = document.querySelector('#quiz')
    const template = document.querySelector('template')
    
